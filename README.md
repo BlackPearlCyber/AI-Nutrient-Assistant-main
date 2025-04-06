@@ -49,7 +49,7 @@ Also includes:
 ## 📸 Screenshots
 
 ### Homepage
-![Screenshot](./assests/preview.png)
+![Screenshot](./assests/preview.png.png)
 
 ---
 
