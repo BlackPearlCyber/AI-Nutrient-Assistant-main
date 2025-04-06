@@ -2,7 +2,7 @@
 # 🥗 AI Nutrient Assistant — Hack2Skill 2025
 
 Live Link → [ainutritionassitant.netlify.app](https://ainutritionassitant.netlify.app/)  
-GitHub Repo → [github.com/BlackPearlCyber/AI-Nutrient-Assistant](https://github.com/BlackPearlCyber/AI-Nutrient-Assistant)
+GitHub Repo → [github.com/BlackPearlCyber/AI-Nutrient-Assistant-main](https://github.com/BlackPearlCyber/AI-Nutrient-Assistant)
 
 ---
 
@@ -56,6 +56,6 @@ Also includes:
 ## How To Run Locally?
 
 ```bash
-git clone https://github.com/BlackPearlCyber/AI-Nutrient-Assistant.git
+git clone https://github.com/BlackPearlCyber/AI-Nutrient-Assistant-main.git
 cd AI-Nutrient-Assistant
 open index.html in browser
